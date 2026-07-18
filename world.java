@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        // Create a Scanner object for input
+        // Create a Scanner object for input.
         Scanner scanner = new Scanner(System.in);
 
         // Ask for user's name
